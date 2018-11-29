@@ -1,0 +1,41 @@
+/*
+* Molly Griffin
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    background-color: pink;
+    font-family: Times New Roman,cursive,sans-serif;
+
+}
+
+header { font-size: 200%
+text-align: center;
+text-decoration: overline underline;
+
+}
+
+main {
+    background-color: skyblue;
+    text-align: center;
+}
+
+footer{ 
+background-color: azure;
+
+}
+
+
+#StrawberryFrosted { width:200px; height:200px; }
+#StrawberryFrosted { float: right; }
+#DonutBoy { width:200px; height:400px; }
+#DonutBoy { float: left; }
